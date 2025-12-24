@@ -1,2 +1,2 @@
 status=ok
-password=4567
+password=2345
