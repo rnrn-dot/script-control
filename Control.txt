@@ -1,3 +1,2 @@
-status=ok
+status=result
 password=jAsAd
-valid_hash=8fc72176cc52f5001dfb151c069ec3bb1bc9ea658ec498e91a341410fc8d07fd
