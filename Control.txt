@@ -1,2 +1,2 @@
-status=result
+status=ok
 password=jAsAd
